@@ -79,3 +79,8 @@ Feel free to fork, improve, and contribute to the project. If you encounter any 
 
 💻 Developed with ❤️ using Python & Streamlit
 
+![Youtube Dashboard)](https://github.com/user-attachments/assets/476c053f-60dd-4316-92d8-f63cc0037200)
+![newplot](https://github.com/user-attachments/assets/0616ac7d-6afb-45ee-b79c-7efedc52ab41)
+![newplot (1)](https://github.com/user-attachments/assets/ed29dc9c-9b1f-4b61-9f3c-02cea4344b8d)
+![newplot (2)](https://github.com/user-attachments/assets/dcaecf94-690b-4248-8637-1e3a7776d1de)
+![newplot (3)](https://github.com/user-attachments/assets/d57a764a-d8b4-4151-8029-fa5fa9db6063)
